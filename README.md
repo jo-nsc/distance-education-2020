@@ -12,8 +12,12 @@ Após análise e confecção de um modelo (que utilizava a quantidade de exercí
 - Pacotes python utilizados: pandas, matplotlib, seaborn
 - Notebook "score_and_time_analysis.ipynb":
 Contém a criação e implementação do modelo utilizado (batizado de score), assim como uma análise exploratória dos alunos com mais tempo de vídeo assistido na Alura, olhando como este grupo interage com os cursos em que se matriculam, completando-os ou não, em sua maioria.
-- 
--
+- Notebook "completion_by_level":
+Contém uma análise quantitativa da taxa de conclusão dos cursos comparados por nível de dificuldade
+- Notebook "user_log_distribution.ipynb":
+Neste notebook os dados são organizados de maneira a tornar visualizável a distribuição de atividades dos alunos ao longo dos dias.
+- Notebook "user_log_clustering":
+Neste notebook detalha-se a obtenção dos clusters dos usuários utilizando o algoritmo de K-means DTW. Utiliza-se aqui a biblioteca tslearn.
 -
 
 ## Coisas que foram tentadas mas não deram certo
@@ -42,3 +46,21 @@ Exemplos de alunos classificados como Cluster 5:
 Exemplos de alunos classificados como cluster 3:
 
 ![](images/cluster3.png)
+
+
+
+
+
+
+
+## Licença 
+
+Licença sobre a [Licença MIT](LICENSE)
+
+
+
+
+
+
+
+
