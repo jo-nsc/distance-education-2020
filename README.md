@@ -1,8 +1,6 @@
 # Readme
 
 
-## Licença de Distribuição
-
 ## Características do problema
 Nos foi apresentada a plataforma de ensino online, a Alura, com o objetivo de, após investigarmos a fundo o comportamento de seus usuários, sugerirmos soluções para, de forma orgânica, aumentar o engajamento/estudo dos inscritos com o site.
 ## Solução desenvolvida
@@ -53,7 +51,9 @@ Exemplos de alunos classificados como cluster 3:
 
 
 
-## Licença 
+## Licença & Direitos Autorais
+
+Copyright (c) 2020 Liang Shen, Jônatas de Souza Nascimento, Gabriel Miranda de Araujo
 
 Licença sobre a [Licença MIT](LICENSE)
 
