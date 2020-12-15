@@ -53,7 +53,7 @@ Exemplos de alunos classificados como cluster 3:
 
 ## Licença & Direitos Autorais
 
-Copyright (c) 2020 Liang Shen, Jônatas de Souza Nascimento, Gabriel Miranda de Araujo
+© 2020 Liang Shen, Jônatas de Souza Nascimento, Gabriel Miranda de Araujo
 
 Licença sobre a [Licença MIT](LICENSE)
 
