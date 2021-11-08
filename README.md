@@ -12,8 +12,7 @@ Contém a criação e implementação do modelo utilizado (batizado de score), a
 -
 -
 
-## Coisas que foram tentadas mas não deram certo
-## Coisas que deram certo + resultados
+## Resultados
 - Modelo:
 O modelo criado, que leva em conta a quantidade de exercícios feitos, interações nos fóruns e cursos, além da quantidade de tempo de videoaula assistido (com todos os valores normalizados), foi essencial para nos fornecer as devidas vizualisações necessárias. Os resultados mais importantes foram os plots abaixo:
 ![](images/graph1.png)
