@@ -8,9 +8,6 @@ Após análise e confecção de um modelo (que utilizava a quantidade de exercí
 ## Descrição dos dados
 - Notebook "score_and_time_analysis.ipynb":
 Contém a criação e implementação do modelo utilizado (batizado de score), assim como uma análise exploratória dos alunos com mais tempo de vídeo assistido na Alura, olhando como este grupo interage com os cursos em que se matriculam, completando-os ou não, em sua maioria.
-- 
--
--
 
 ## Resultados
 - Modelo:
